@@ -9,7 +9,7 @@ Thank you for considering contributing to Home of Projects! We welcome contribut
 2. **Clone your fork**: Clone your forked repository to your local machine.
 
    ```bash
-   git clone --recurse-submodules https://github.com/yourusername/home-of-projects.git
+   git clone --recurse-submodules https://github.com/kenawak/home-of-projects.git
    cd home-of-projects
    ```
 
