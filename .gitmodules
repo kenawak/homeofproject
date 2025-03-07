@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/kenawak/home-of-projects-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/kenawak/HomeOfProjects.git
