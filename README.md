@@ -26,8 +26,13 @@ Home of Projects is a Telegram mini-app designed for developers to showcase thei
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/home-of-projects.git
+   git clone --recurse-submodules https://github.com/yourusername/home-of-projects.git
    cd home-of-projects
+   ```
+
+   If you have already cloned the repository without submodules, you can initialize and update them with:
+   ```bash
+   git submodule update --init --recursive
    ```
 
 2. **Backend Setup**:
